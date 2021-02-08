@@ -139,6 +139,23 @@ button:hover{
 
 
 @media (max-width: 500px){
+  
+    nav a {
+        font-size: 2rem;
+        padding: 1rem;
+       
+    }
+
+    nav span {
+        margin: 1rem auto;
+        align-items: center;
+
+    }
+
+    h1{
+        font-size: 4rem;
+        line-height: 1em;
+    }
     nav {
         font-size: 5rem;
     }
